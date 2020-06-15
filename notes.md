@@ -20,9 +20,7 @@ I didn't explore extra things with this, even though it would have been interest
 
 I've used voyant quite often, I think I started with the basics in highschool but I have used it in multiple classes in University. I had a fairly deep dive in my DIGH 3001A class last year to explore Othello. This familarized me with it so I knew how to work the various tools already and how to play around with it to find interesting results. 
 
-##### Making my own corpus
 
-I was able to use some of the skills learned in previous weeks to assemble a brief corpus to use with Voyant.
 
 
 ## AntConc
